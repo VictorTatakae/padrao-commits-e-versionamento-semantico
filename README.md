@@ -1,6 +1,6 @@
 # Padrão de Commits
 
-Iremos usar em nossos projetos o padrão de commits do angular:
+## Iremos usar em nossos projetos o padrão de commits do angular:
 * **feat**: Um novo recurso para a aplicação, e não precisa ser algo grande, mas apenas algo que não existia antes e que a pessoa final * irá acessar.
 * **fix**: Correções de bugs.
 * **docs**: Alterações em arquivos relacionados à documentações.
