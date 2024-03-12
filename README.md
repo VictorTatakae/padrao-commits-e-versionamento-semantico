@@ -17,6 +17,7 @@
 #Exemplo versionamento semântico:
 Major.Minor.Patch -> v1.0.0
 ```
+# Padrão de Commits
 
 ## Modelo
 ```git
