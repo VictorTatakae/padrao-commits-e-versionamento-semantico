@@ -17,9 +17,9 @@
 #Exemplo versionamento semântico:
 Major.Minor.Patch -> v1.0.0
 ```
-# Padrão de Commits
+## Padrão de Commits
 
-## Modelo
+### Modelo
 ```git
 <type>(<scope>): <subject>
 <BLANK LINE>
@@ -28,8 +28,8 @@ Major.Minor.Patch -> v1.0.0
 <footer>
 ```
 
-## Tipo
-### Deve ser um dos seguintes:
+### Tipo
+#### Deve ser um dos seguintes:
 
 **build**: alterações que afetam o sistema de compilação ou dependências externas.
 
